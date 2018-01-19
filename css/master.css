@@ -2,12 +2,19 @@ body {
   background-color: #000;
   color: #0af;
 }
+
 div.navbar {
   background-color: #000;
   color: #0af;
   font-family: "Ubuntu", sans-serif;
+  margin: auto;
   a {
     background-color: #000;
     color: #0af;
+    margin: auto;
   }
+}
+
+h1 {
+  margin: auto;
 }
