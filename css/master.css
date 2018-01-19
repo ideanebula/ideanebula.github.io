@@ -1,5 +1,12 @@
+body {
+  background-color: #000;
+  color: #0af;
+}
 div.navbar {
   background-color: #000;
   color: #0af;
-  font-family: "Ubuntu", sans-serif
+  font-family: "Ubuntu", sans-serif;
+  a {
+    color
+  }
 }
