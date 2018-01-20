@@ -1,15 +1,21 @@
 body {
   background-color: #000;
   color: #0af;
+  font-family: "Ubuntu Mono", monospace;
   text-align: center;
 }
 
-div.navbar {
+a {
   background-color: #000;
-  color: #0af;
-  font-family: "Ubuntu Mono", sans-serif;
-  text-align: center;
+  color: #707;
+  font-family: "Ubuntu Mono", monospace;
 }
+
+div.navbar {
+  background-color: #00;
+  color: #0af;
+  font-family: "Ubuntu Mono", monospace;
+  text-align: center;
 
 h1 {
   text-align: center;
